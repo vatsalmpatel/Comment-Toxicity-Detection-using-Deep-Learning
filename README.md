@@ -52,4 +52,4 @@ pip install -r requirements.txt
 
 ![negative_sample](./samples/negative_sample.jpg)
 
-### And that should be it, we created a Comment Toxicity Classification model, by creating a LSTM model in `TensorFlow` and created an application in Gradio to visualize it  ✅🏁.
+### And that should be it, we created a Comment Toxicity Classification model, by creating a LSTM model in `TensorFlow` and created an application in `Gradio` to visualize it  ✅🏁.
